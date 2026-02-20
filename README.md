@@ -5,5 +5,5 @@ Converts AgOpenGPS field.kml files into a field boundary that John Deere Ops Cen
 Must be used with QGIS.
 1. Add vector layer. Open Field.kml and only import the boundary layer.
 2. Preselect the imported boundary layer
-3. Execute script
+3. Execute script kml2zip.py
 4. Enter Field Name when prompted.
